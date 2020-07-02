@@ -23,6 +23,7 @@ await getData("https://open.spotify.com/track/5nTtCOCds6I0PHMNtqelas");
 
 <details>
 <summary>returns a long json response, look at [the web API object model](https://developer.spotify.com/documentation/web-api/reference/object-model/)) </summary>
+
 ```json
 {
   "album": {
@@ -104,6 +105,7 @@ await getData("https://open.spotify.com/track/5nTtCOCds6I0PHMNtqelas");
   "uri": "spotify:track:5nTtCOCds6I0PHMNtqelas",
   "dominantColor": "#87707f"
 }
+
 ```
 </details>
 
